@@ -1,0 +1,29 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  Mouse.cpp
+  markerManager.cpp
+  marker.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\StartKit.exe not found or not built by the last incremental link; performing full link
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+gbxd.lib(gb.obj) : warning LNK4099: PDB 'gb.pdb' was not found with 'gbxd.lib(gb.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\gb.pdb'; linking object as if no debug info
+gbxd.lib(gb_draw.obj) : warning LNK4099: PDB 'gb.pdb' was not found with 'gbxd.lib(gb_draw.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\gb.pdb'; linking object as if no debug info
+gbxd.lib(gb_font.obj) : warning LNK4099: PDB 'gb.pdb' was not found with 'gbxd.lib(gb_font.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\gb.pdb'; linking object as if no debug info
+gbxd.lib(gb_input.obj) : warning LNK4099: PDB 'gb.pdb' was not found with 'gbxd.lib(gb_input.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\gb.pdb'; linking object as if no debug info
+gbxd.lib(gb_sprite.obj) : warning LNK4099: PDB 'gb.pdb' was not found with 'gbxd.lib(gb_sprite.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\gb.pdb'; linking object as if no debug info
+gbxd.lib(wininput.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(wininput.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(texture.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(texture.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(sprite.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(sprite.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(sound.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(sound.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(panel.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(panel.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(font.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(font.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(dxutil.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(dxutil.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(dsutil.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(dsutil.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(draw.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(draw.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(dimouse.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(dimouse.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(dikeyboard.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(dikeyboard.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(dijoypad.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(dijoypad.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(di.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(di.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+gbxd.lib(d3d.obj) : warning LNK4099: PDB 'base.pdb' was not found with 'gbxd.lib(d3d.obj)' or at 'C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\base.pdb'; linking object as if no debug info
+  StartKit.vcxproj -> C:\Users\aung.pyae.san\Downloads\Marker2022\Marker2022-\StartKit\Debug\StartKit.exe
